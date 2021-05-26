@@ -3,4 +3,3 @@ quorum:
   docker_image: golang:latest
   deps:
     - run: make all
-    - run: make test
